@@ -1,0 +1,23 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "视频素材来自B站<始终兮>",
+	"file" : "2021-07-14 22-49-21-00.00.19.696-00.02.28.988.mp4",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Landscape" ],
+	"title" : "森林公路的雨天",
+	"type" : "video",
+	"version" : 0
+}
